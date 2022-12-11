@@ -24,7 +24,7 @@ async function main() {
   console.log(
     "Crypto Devs Contract Address:",
     deployedCryptoDevsContract.address
-  ); //0xf5f5dB50ba442980Ee98A80388c5E4639435073B
+  ); //0xD4Afb1c14aF5d6FDa4be01aB4F0D69ec662Eb477
 }
 
 // Call the main function and catch if there is any error
