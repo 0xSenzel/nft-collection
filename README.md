@@ -46,6 +46,8 @@ npx hardhat compile
 ```
 
 To deploy smart contracts: <br/>
+Head to [index.js](./hardhat-tutorial/constants/index.js) file, update the value of `WHITELIST_CONTRACT_ADDRESS` with your own deployed [Whitelist-Dapp](https://github.com/0xSenzel/Whitelist-Dapp)
+
 Head to [hardhat.config.js](./hardhat-tutorial/hardhat.config.js) file, changed the value of `ALCHEMY_HTTP_URL` with your own Ethereum Network API & `PRIVATE_KEY` with Ethereum wallet's private key. Then run the following command.
 
 ```
