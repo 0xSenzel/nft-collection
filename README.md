@@ -24,7 +24,7 @@ NFT Collection allows whitelisted address from [Whitelist-Dapp](https://0xsenzel
 
 <figure>
 <img src="./my-app/public/demo3.PNG" alt="demo1" style="width:100%">
-<p align="center">Fig.2 - Home Page After Presale Started</p>
+<p align="center">Fig.3 - Home Page After Presale Started</p>
 </figure>
 
 ## Project Setup
